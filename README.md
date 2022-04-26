@@ -5,18 +5,19 @@ some exercises with JS to revise
 ## 1. Edit the object and return a new array
 
 Have an object like this <br>
-let object = {
+let object = { <br>
 a: {
-name: "Avet",
+name: "Avet"
 }, <br>
 b: {
-name: "Rafo",
+name: "Rafo"
 },<br>
 c: {
-name: "Tigran",
-},
+name: "Tigran"
+}<br>
 }; <br>
 
-Get from the object an array like [ {name: "Avet", id: "a"}, <br> {name: "Rafo", id: "b"},<br> {name: "Tigran", id: "c"} ]
+Get from the object an array like <br>
+[ {name: "Avet", id: "a"}, <br> {name: "Rafo", id: "b"},<br> {name: "Tigran", id: "c"} ]
 
 [objectMethods.js](objectMethods.js)
